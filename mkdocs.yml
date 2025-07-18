@@ -2,6 +2,8 @@ site_name: "AG: JavaScript API Docs"
 nav:
   - Docs:
       - Home: index.md
+      - "enum":
+          - "trigger": enum/trigger.md
       - "element":
           - "player": element/player.md
       - "noname":
